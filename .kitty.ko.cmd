@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/Lab5/kitty.ko := ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/pi/Documents/Lab5/kitty.ko /home/pi/Documents/Lab5/kitty.o /home/pi/Documents/Lab5/kitty.mod.o ;  true
