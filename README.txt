@@ -1,7 +1,17 @@
-proj3.py
+Edith Flores
+Kitty Module
 
-To run:
-python3 proj3.py
+Files:
+kitty.o
+kitty.mod.o
+kitty.mod.c
+kitty.ko
+kitty.c
+README.txt
+Makefile
+.kitty.o.cmd
+.kitty.mod.o.cmd
+.kitty.ko.cmd
 
-The rest of the document files are needed to preprocess, some have been altered to implement documents as queries.
-Proj3.py is the program.
+--------kitty-----------------
+Kitty is a module that allows the user to mount and read. When read we see a kitty (Meow!!! =^..^=).
